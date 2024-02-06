@@ -1,1 +1,1 @@
-This is a Faq Accordion developed to FrontEnd Mentos using only HTML, Css and Javascript
+This is a Faq Accordion developed to FrontEnd Mentor using only HTML, Css and Javascript
